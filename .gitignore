@@ -4,3 +4,5 @@
 *.list
 *.symbol
 *.~asm
+*.bin
+*.com
